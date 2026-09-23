@@ -1,1 +1,1 @@
-# lab-10.
+# lab-10. Explores structured AI image prompting for aviation business use. It compares weak and detailed prompts, tests changes in style, lighting, aspect ratio and environment, identifies prompt bleed, and checks generated visuals for realism, professionalism, privacy and aviation accuracy.
